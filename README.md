@@ -1,8 +1,15 @@
 # Trabajo práctico final: Enriquecimiento de anotaciones GO
 CLI que permite comparar y enriquecer de proteínas homólogas
 
-Integrantes:
+## Integrantes:
 
 * Enrique Alonso
 * Lucas Alvarez
 * Gaston Da Silva
+
+### Setup
+
+```python 
+pip install -r requeriments.txt
+
+```
